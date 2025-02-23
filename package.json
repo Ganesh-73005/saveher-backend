@@ -7,7 +7,7 @@
     "node": "20.x"
   },
   "scripts": {
-    "build": "HI ....",
+    "build": "echo Hi",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
